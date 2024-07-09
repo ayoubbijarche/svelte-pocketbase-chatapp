@@ -8,4 +8,4 @@
 ### Now open another terminal instance and navigate to svelte project directory and run using bun like this :
     bun run dev
 
-#Enjoy!! :)
+# Enjoy!! :)
